@@ -25,7 +25,13 @@ body {
     background-size: cover;
     font-family: "Myriad Pro";
     margin: auto;
-    
+}
+
+button {
+    padding: 0;
+    border: none;
+    background: none;
+    text-decoration: none;
 }
 
 /* CONTAINER 1 = FUNDO AZUL COM CINZA */
@@ -38,6 +44,9 @@ body {
 /* CONTAINER 2 = FUNDO BRANCO COM AZUL */
 #container2 {
     text-align: center;
+    color: #3a36c1;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #fff;
     color: #3a36c1;
 }
 
