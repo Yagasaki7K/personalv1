@@ -1,3 +1,4 @@
+// Yagasakii
 function ptbr() {
     document.getElementById('story').innerHTML = '<a href="#container1">HISTÓRIA</a>';
     document.getElementById('skills').innerHTML = '<a href="#container1">HABILIDADES</a>';
